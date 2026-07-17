@@ -3,7 +3,7 @@ I'm a water resources professional, currently pursuing a PhD in hydrology at Uni
 Beyond watersheds and models, I turn to writing as my expressive outlet; a way to filter the inner sediments and bring clarity to my thoughts, feelings, and the world within and around me.
 <br>
 <br>
-- LinkedIn
-- ResearchGate
-- Google Scholar
-- Email
+- [LinkedIn](https://www.linkedin.com/in/oumar-jaffar/)
+- [ResearchGate](https://www.researchgate.net/profile/Oumar-Jaffar)
+- [Google Scholar](https://scholar.google.com/citations?user=xEdCY_IAAAAJ&hl=fr)
+- [Email](jaffar.oumar@gmail.com)
