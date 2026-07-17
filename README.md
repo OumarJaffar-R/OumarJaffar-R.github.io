@@ -1,2 +1,2 @@
-# oumarjaffar.github.io
+# oumarjaffar-r.github.io
 Personal website
