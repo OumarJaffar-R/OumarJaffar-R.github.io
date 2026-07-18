@@ -6,4 +6,6 @@ Beyond watersheds and models, I turn to writing as my expressive outlet; a way t
 - [LinkedIn](https://www.linkedin.com/in/oumar-jaffar/)
 - [ResearchGate](https://www.researchgate.net/profile/Oumar-Jaffar)
 - [Google Scholar](https://scholar.google.com/citations?user=xEdCY_IAAAAJ&hl=fr)
-- [Email](jaffar.oumar@gmail.com)
+
+### Hometown map: Afourar, Morocco
+<embed type="text/html" src="/img/afourar_map.html" width="600" height="600">
