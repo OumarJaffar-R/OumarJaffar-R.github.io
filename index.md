@@ -12,4 +12,4 @@ Beyond watersheds and models, I turn to writing as my expressive outlet; a way t
 <embed type="text/html" src="/img/afourar_map.html" width="600" height="600"><br>
 
 ### Precipitation data (NOAA) at Washington D.C.
-<embed type="text/html" src="/img/washington_temporalClip_plot.html" width="600" height="600">
+<embed type="text/html" src="/img/washington_precipitation_plot.html" width="600" height="600">
