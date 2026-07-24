@@ -11,5 +11,5 @@ Beyond watersheds and models, I turn to writing as my expressive outlet; a way t
 ### Hometown map: Afourar, Morocco
 <embed type="text/html" src="/img/afourar_map.html" width="600" height="600"><br>
 
-### Temperature data - Station: BOULDER, CO US
-<embed type="text/html" src="/img/temperature_boulder_plot.html" width="600" height="600">
+### Precipitation data (NOAA) at Washington D.C.
+<embed type="text/html" src="/img/washington_temporalClip_plot.html" width="600" height="600">
